@@ -32,7 +32,7 @@ Raiz
 │   └── index.js
 ├──Apresentação.pdf
 ├── Relatório Final.pdf
-├──README.md
+└──README.md
 ```
 ### Como executar o projeto:
 O jogo funciona como uma aplicação web, e para rodá-lo, basta abrir o arquivo `index.html`, localizado na mesma pasta que este arquivo `README.md`, com um navegador de sua escolha.
